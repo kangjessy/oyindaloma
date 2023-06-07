@@ -10,14 +10,14 @@ The profile of the original designer for this project can be found at [https://w
 
 You can see a preview of the design below:
 
-![Preview](link_to_preview_image)
+![Preview](link_to_preview_image [https://www.figma.com/community/file/941813185107750515])
 
 ## Installation
 
 To download or clone the project, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/kangjessy/oyindaloma.git
 ```
 
 ## License
