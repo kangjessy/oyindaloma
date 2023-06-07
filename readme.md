@@ -11,7 +11,7 @@ Ini adalah template awal yang dibuat oleh Kang Jessy menggunakan Bootstrap 5 dan
 ## Cara Menggunakan
 
 1. **Unduh**: Unduh template ini ke dalam proyek Anda. Anda dapat mengunduhnya dalam format ZIP atau menggunakan Git untuk mengkloning repositori ini.
-2. **Ekstrak**: Jika Anda mengunduh dalam format ZIP, ekstrak berkas ke dalam folder proyek Anda. Jika Anda menggunakan Git, isikan perintah berikut di command prompt atau git bash: git clone <nama repository>
+2. **Ekstrak**: Jika Anda mengunduh dalam format ZIP, ekstrak berkas ke dalam folder proyek Anda. Jika Anda menggunakan Git, isikan perintah berikut di command prompt atau git bash: git clone https://github.com/kangjessy/starter-template-bootstrap5.git
 3. **Modifikasi**: Sesuaikan template ini sesuai dengan kebutuhan proyek Anda. Anda dapat mengedit file HTML, CSS (SCSS), dan JavaScript sesuai dengan preferensi Anda.
 4. **Sesuaikan Gaya**: Jelajahi berkas SCSS untuk menyesuaikan gaya template ini sesuai dengan desain yang Anda inginkan. Dengan SCSS, Anda dapat mengubah warna, tata letak, dan elemen lainnya dengan mudah.
 5. **Mulai Mengembangkan**: Setelah Anda menyesuaikan template sesuai dengan kebutuhan Anda, mulailah mengembangkan konten dan fungsi yang diperlukan untuk proyek Anda.
