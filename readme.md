@@ -1,31 +1,40 @@
-# Starter Template oleh Kang Jessy menggunakan Bootstrap 5
+# Oyindamola Portfolio
 
-Ini adalah template awal yang dibuat oleh Kang Jessy menggunakan Bootstrap 5 dan telah menyertakan SCSS. Template ini dirancang sebagai fondasi yang dapat digunakan oleh siapa pun dalam memulai pengembangan situs web mereka.
+This is the Oyindamola Portfolio project, a design created by Fidelis from the Figma Community. This project is an implementation of the design into a website using Bootstrap 5 and SCSS.
 
-## Fitur Utama
+## Designer
 
-- **Bootstrap 5**: Template ini menggunakan versi terbaru dari Bootstrap untuk memastikan kompatibilitas dan manfaat dari komponen-komponen yang kaya.
-- **SCSS**: Template ini sudah mencakup SCSS (Sassy CSS) yang memungkinkan Anda mengorganisir dan menyesuaikan gaya CSS dengan lebih baik.
-- **Fleksibel**: Template ini dapat digunakan sebagai titik awal untuk berbagai jenis proyek, mulai dari situs web perusahaan hingga proyek pribadi atau portofolio.
+The profile of the original designer for this project can be found at [https://www.figma.com/@ifidelis](https://www.figma.com/@ifidelis).
 
-## Cara Menggunakan
+## Preview
 
-1. **Unduh**: Unduh template ini ke dalam proyek Anda. Anda dapat mengunduhnya dalam format ZIP atau menggunakan Git untuk mengkloning repositori ini.
-2. **Ekstrak**: Jika Anda mengunduh dalam format ZIP, ekstrak berkas ke dalam folder proyek Anda. Jika Anda menggunakan Git, isikan perintah berikut di command prompt atau git bash: ```git clone https://github.com/kangjessy/starter-template-bootstrap5.git
-3. **Modifikasi**: Sesuaikan template ini sesuai dengan kebutuhan proyek Anda. Anda dapat mengedit file HTML, CSS (SCSS), dan JavaScript sesuai dengan preferensi Anda.
-4. **Sesuaikan Gaya**: Jelajahi berkas SCSS untuk menyesuaikan gaya template ini sesuai dengan desain yang Anda inginkan. Dengan SCSS, Anda dapat mengubah warna, tata letak, dan elemen lainnya dengan mudah.
-5. **Mulai Mengembangkan**: Setelah Anda menyesuaikan template sesuai dengan kebutuhan Anda, mulailah mengembangkan konten dan fungsi yang diperlukan untuk proyek Anda.
+You can see a preview of the design below:
 
-## Kontribusi
+![Preview](link_to_preview_image)
 
-Anda diperbolehkan untuk melakukan kontribusi terhadap template ini. Jika Anda menemukan bug, perbaikan, atau peningkatan yang dapat dilakukan, Anda dapat mengajukan permintaan tarik (pull request) melalui repositori ini. Mohon beri tahu Kang Jessy agar dapat melakukan tinjauan dan mempertimbangkan kontribusi Anda.
+## Installation
 
-## Lisensi
+To download or clone the project, use the following command in your terminal:
 
-Template ini disediakan di bawah lisensi MIT. Anda diperbolehkan untuk menggunakan template ini secara bebas, termasuk penggunaan komersial. Namun, mohon diingat bahwa template ini disediakan "apa adanya" tanpa jaminan apapun. Kang Jessy tidak bertanggung jawab atas penggunaan atau kerusakan yang dihasilkan dari penggunaan template ini.
+```bash
+git clone https://github.com/username/repository.git
+```
 
-## Terima kasih
+## License
 
-Terima kasih telah menggunakan starter template ini! Jika Anda memiliki pertanyaan, saran, atau umpan balik lainnya, jangan ragu untuk menghubungi Kang Jessy.
+This project is licensed under the MIT License. This means that you are allowed to use, modify, and distribute the source code. However, please note that the original design is the work of someone else and cannot be claimed solely. Please respect the designer's copyright and do not use the design without proper permission.
 
-Selamat mengembangkan proyek Anda dan semoga berhasil!
+## Contribution
+
+Contributions to this project are highly appreciated. If you find any issues, bugs, or want to provide improvements or enhancements, please create a pull request through this repository.
+
+## Developer
+
+Name: Jessy Mutaj Hifjudin
+GitHub: https://github.com/kangjessy
+
+## Acknowledgments
+
+Thank you for checking out the Oyindamola Portfolio project! If you have any questions or feedback, feel free to contact us.
+
+Happy coding and best of luck!
